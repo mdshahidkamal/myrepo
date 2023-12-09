@@ -5,3 +5,8 @@ for num in mylist:
         print(str(num)+ ' is even')
     else:
         print(str(num)+ ' is odd')
+
+
+        a=10
+        b=20
+        a+b
